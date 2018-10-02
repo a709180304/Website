@@ -1,0 +1,61 @@
+ 
+.pic{
+    margin-top:60px;
+    margin-right:30px;
+    margin-left:50px;
+}
+.name{
+    color:burlywood;
+    font-weight:bold;
+    margin-top:100px;
+}
+.includes{
+    text-decoration: underline;
+    color:red;
+}
+
+
+
+.a {font-weight:bold;
+    color: rgb(238, 189, 82);
+    position:fixed;
+    margin-top:0px;
+   
+}
+.Georgia {
+    font-family:Georgia, serif;
+}
+
+.leftpicture1{
+    float:left;
+    width: 330px;
+    height: 220px;
+
+}
+#site-options{
+    text-align: center;
+}
+.panel {
+    padding-top: 6px;
+    vertical-align: top;
+    background-color:#efeb;
+    padding-right:5px;
+}
+.panel img{
+
+    width: 330px;
+    height: 220px;
+    
+
+}
+
+#choice{
+   margin-top: 3px;
+   display:inline-block;
+   height:335px;
+   width:345px;
+   background-color:#effb;
+
+}
+
+
